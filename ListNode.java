@@ -1,4 +1,4 @@
-package Top.EASY.Coding_Questions;
+package Top.HARD.Coding_Questions;
 
 // Definition for singly-linked list.
 public class ListNode {
